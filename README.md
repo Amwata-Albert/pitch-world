@@ -1,7 +1,7 @@
 # pitch-world
 ## Author Amwata Albert
 
-[Owiti-Charles](https://github.com/Amwata-Albert/pitch-world)
+[Amwata Albert](https://github.com/Amwata-Albert/pitch-world)
 
 # Description
 This  is a flask application that allows users to post one minute pitches and also allows other users who have signed up to comment and upvote or downvote a pitch. It also allows a person to signup to be able to access the functionalities of the application
@@ -42,7 +42,7 @@ https://github.com/Amwata-Albert/pitch-world
 2. Move to the folder and install requirements
   ```bash
   cd pitch-world
-  pip install -r requirements.txt
+
   ```
 3. Exporting Configurations
   ```bash
@@ -50,13 +50,12 @@ https://github.com/Amwata-Albert/pitch-world
   ```
 4. Running the application
   ```bash
-  python3.6 manage.py server
+  python3.8 manage.py server
   ```
 5. Testing the application
   ```bash
   python3.8 manage.py test
-  ```
-Open the application on your browser `127.0.0.1:5000`.
+  ```.
 
 
 ## Technology used
