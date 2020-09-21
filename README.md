@@ -50,7 +50,7 @@ https://github.com/Amwata-Albert/pitch-world
   ```
 4. Running the application
   ```bash
-  python3.6 manage.py server
+  python3.8 manage.py server
   ```
 5. Testing the application
   ```bash
