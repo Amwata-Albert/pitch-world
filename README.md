@@ -9,9 +9,6 @@ This  is a flask application that allows users to post one minute pitches and al
 ## Live Link
 [View Site](https://pitchworldcha.herokuapp.com)
 
-## Screenshot
-
-<img src="https://raw.githubusercontent.com/Owiti-Charles/pitch-world/master/app/static/photos/scrnew.png" width="900px" height="440px">
 
 ## User Story
 
@@ -40,7 +37,7 @@ To get the code..
 
 1. Cloning the repository:
   ```bash
-  https://github.com/Owiti-Charles/pitch-world.git
+https://github.com/Amwata-Albert/pitch-world
   ```
 2. Move to the folder and install requirements
   ```bash
@@ -57,7 +54,7 @@ To get the code..
   ```
 5. Testing the application
   ```bash
-  python3.6 manage.py test
+  python3.8 manage.py test
   ```
 Open the application on your browser `127.0.0.1:5000`.
 
@@ -74,8 +71,8 @@ Open the application on your browser `127.0.0.1:5000`.
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]
+If you have any question or contributions, please email me at [albertotieno41@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Owiti Charles**
+* Copyright (c) 2020 **Amwata Albert**
