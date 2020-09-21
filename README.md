@@ -1,5 +1,5 @@
 # pitch-world
-## Author
+## Author Amwata Albert
 
 [Owiti-Charles](https://github.com/Amwata-Albert/pitch-world)
 
