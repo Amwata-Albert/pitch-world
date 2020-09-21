@@ -1,4 +1,4 @@
-"""add downvote
+"""add downvot
 
 Revision ID: a1974e0b3d3b
 Revises: d68693c12bcd
