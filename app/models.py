@@ -14,7 +14,7 @@ class User(UserMixin, db.Model):
     pitches = db.relationship('Pitch', backref='user', lazy='dynamic')
     comment = db.relationship('Comment', backref='user', lazy='dynamic')
     upvote = db.relationship('Upvote',backref='user',lazy='dynamic')
-    downvote = db.relationship('Downvote',backref='user',lazy='dynamic')
+   
     
 
     @property
